@@ -1,0 +1,7 @@
+PREVIOUS_STEPS : "Previous Steps",
+NEXT_STEPS : "Next Steps",
+SHOW_SIGNATURE : "Show Signature",
+PUSH_INSTRUCTIONS :	"Push Instructions",
+SELECT_RESOURCE_GROUP :	"Select Resource Group",
+INDIVIDUAL_USER : "Individual user",
+COLUMN_HEADER :	"Column header"
